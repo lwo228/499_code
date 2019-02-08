@@ -1,1 +1,1 @@
-# 499_code
+Read me for cs 499 final project.
