@@ -1,0 +1,337 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+MERGED from [:plugins] C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\plugins\build\intermediates\library_manifest\allarchsDebug\AndroidManifest.xml:2:1-9:12
+MERGED from [:wikitude-native-sdk] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\wikitude-native-sdk.aar\683b7a561198c28d9be36fda59272492\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\7ef618492c436575e697632576c65cb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android:flexbox:0.2.5] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\flexbox-0.2.5.aar\c6bb35e1d2ea5e16b98c205a71c11bc1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c5b0d2bf844d307b2c883639ce8f5160\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\b72648818aa511cc88bd72eb4fde7873\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c66b5e469673bf2a6c579ceeb467349\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:17:1-44:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\bd2ca9da20616f7dcd51136c73e084fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c83e4b529fd0f5283ff5eb7db7744836\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\72bca157751cf2792e245564d005befd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\56b083528ea5eb3635f715d2057639b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\129ff9b018a5d4731771c5af22bce54e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\c60ebccdff0cc29e1f6ccfdf2c24c0f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\3a138b57c0767de7a9a603b8332df635\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\58efd7c8d8a1fc991e025b711228bd95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\328daf4e053508c0ad1c5fb88d903c75\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b5f7db74db62b6d3008a3897e63eb70d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f98e97ee9857fd5504c34bf1c68bd5ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f324e07a3eb75eef020508f09e99350\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8bf2386a8aef33239efcd84a82f82304\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+	package
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-119:12
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:7:22-64
+uses-feature#0x00020000
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:glEsVersion
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:11:9-41
+	android:required
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:12:9-32
+uses-feature#android.hardware.camera
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:16:9-47
+application
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:20:5-118:19
+MERGED from [:wikitude-native-sdk] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\wikitude-native-sdk.aar\683b7a561198c28d9be36fda59272492\AndroidManifest.xml:11:5-14:19
+MERGED from [:wikitude-native-sdk] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\wikitude-native-sdk.aar\683b7a561198c28d9be36fda59272492\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c66b5e469673bf2a6c579ceeb467349\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c66b5e469673bf2a6c579ceeb467349\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:28:5-42:19
+MERGED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:28:5-42:19
+	android:label
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:23:9-41
+	android:resizeableActivity
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:25:9-43
+	android:icon
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.wikitude.samples.MainActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:26:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.wikitude.samples.tracking.image.SimpleImageTrackingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:34:9-37:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:37:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:35:17-95
+activity#com.wikitude.samples.tracking.image.ExtendedImageTrackingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:38:9-41:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:41:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:39:17-97
+activity#com.wikitude.samples.tracking.image.MultipleTargetsImageTrackingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:42:9-45:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:45:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:43:17-104
+activity#com.wikitude.samples.tracking.cloud.ContinuousCloudRecognitionActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:47:9-50:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:50:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:48:17-102
+activity#com.wikitude.samples.tracking.cloud.SingleCloudRecognitionActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:51:9-54:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:54:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:53:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:52:17-98
+activity#com.wikitude.samples.tracking.instant.InstantTrackingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:56:9-59:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:59:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:58:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:57:17-93
+activity#com.wikitude.samples.tracking.instant.InstantScenePickingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:60:9-63:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:63:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:61:17-97
+activity#com.wikitude.samples.tracking.instant.SaveInstantTargetActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:64:9-67:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:67:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:66:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:65:17-95
+activity#com.wikitude.samples.tracking.instant.LoadInstantTargetActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:68:9-71:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:71:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:69:17-95
+activity#com.wikitude.samples.tracking.instant.PlaneDetectionActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:72:9-74:53
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:74:13-51
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:72:19-94
+activity#com.wikitude.samples.tracking.object.ObjectTrackingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:76:9-79:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:79:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:78:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:77:17-91
+activity#com.wikitude.samples.tracking.object.ExtendedObjectTrackingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:80:9-83:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:83:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:82:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:81:17-99
+activity#com.wikitude.samples.rendering.external.ExternalRenderingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:85:9-88:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:88:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:87:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:86:17-97
+activity#com.wikitude.samples.rendering.internal.InternalRenderingActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:89:9-92:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:92:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:91:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:90:17-97
+activity#com.wikitude.samples.plugins.BarcodePluginActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:94:9-97:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:97:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:95:17-82
+activity#com.wikitude.samples.plugins.FaceDetectionPluginActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:98:9-101:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:101:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:100:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:99:17-88
+activity#com.wikitude.samples.plugins.SimpleInputPluginActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:102:9-105:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:105:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:104:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:103:17-86
+activity#com.wikitude.samples.plugins.CustomCameraPluginActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:106:9-109:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:109:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:108:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:107:17-87
+activity#com.wikitude.samples.camera.CameraSettingsActivity
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:111:9-114:57
+	android:screenOrientation
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:114:17-55
+	android:configChanges
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:113:17-78
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:112:17-82
+meta-data#com.google.ar.core
+ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:116:5-77
+	android:value
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:116:50-74
+	android:name
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml:116:16-49
+uses-sdk
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+MERGED from [:plugins] C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\plugins\build\intermediates\library_manifest\allarchsDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:plugins] C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\plugins\build\intermediates\library_manifest\allarchsDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:wikitude-native-sdk] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\wikitude-native-sdk.aar\683b7a561198c28d9be36fda59272492\AndroidManifest.xml:7:5-9:41
+MERGED from [:wikitude-native-sdk] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\wikitude-native-sdk.aar\683b7a561198c28d9be36fda59272492\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\7ef618492c436575e697632576c65cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\7ef618492c436575e697632576c65cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android:flexbox:0.2.5] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\flexbox-0.2.5.aar\c6bb35e1d2ea5e16b98c205a71c11bc1\AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android:flexbox:0.2.5] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\flexbox-0.2.5.aar\c6bb35e1d2ea5e16b98c205a71c11bc1\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c5b0d2bf844d307b2c883639ce8f5160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c5b0d2bf844d307b2c883639ce8f5160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\b72648818aa511cc88bd72eb4fde7873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\b72648818aa511cc88bd72eb4fde7873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c66b5e469673bf2a6c579ceeb467349\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c66b5e469673bf2a6c579ceeb467349\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:25:5-44
+MERGED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:25:5-44
+MERGED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:26:5-47
+MERGED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:26:5-47
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\bd2ca9da20616f7dcd51136c73e084fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\bd2ca9da20616f7dcd51136c73e084fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c83e4b529fd0f5283ff5eb7db7744836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\c83e4b529fd0f5283ff5eb7db7744836\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\72bca157751cf2792e245564d005befd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\72bca157751cf2792e245564d005befd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\56b083528ea5eb3635f715d2057639b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\56b083528ea5eb3635f715d2057639b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\129ff9b018a5d4731771c5af22bce54e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\129ff9b018a5d4731771c5af22bce54e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\c60ebccdff0cc29e1f6ccfdf2c24c0f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\c60ebccdff0cc29e1f6ccfdf2c24c0f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\3a138b57c0767de7a9a603b8332df635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\3a138b57c0767de7a9a603b8332df635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\58efd7c8d8a1fc991e025b711228bd95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\58efd7c8d8a1fc991e025b711228bd95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\328daf4e053508c0ad1c5fb88d903c75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\328daf4e053508c0ad1c5fb88d903c75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b5f7db74db62b6d3008a3897e63eb70d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b5f7db74db62b6d3008a3897e63eb70d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f98e97ee9857fd5504c34bf1c68bd5ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f98e97ee9857fd5504c34bf1c68bd5ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f324e07a3eb75eef020508f09e99350\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f324e07a3eb75eef020508f09e99350\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8bf2386a8aef33239efcd84a82f82304\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8bf2386a8aef33239efcd84a82f82304\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\Examples\NativeSDKExamples\app\src\main\AndroidManifest.xml
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:32:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:39:9-41:41
+	android:value
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:41:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\samue\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b23413a5b043c102fc406bcc293da08a\AndroidManifest.xml:40:13-62

@@ -1,0 +1,50 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion commonCompileSdkVersion
+    
+
+    defaultConfig {
+        applicationId "com.wikitude.nativesdksampleapp"
+        minSdkVersion commonMinSdkVersion
+        targetSdkVersion commonTargetSdkVersion
+        versionCode 1
+        versionName "8.2.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            debuggable true
+        }
+    }
+
+    flavorDimensions "arch"
+
+    productFlavors {
+        "armeabi-v7a" {
+            dimension "arch"
+        }
+        "arm64-v8a" {
+            dimension "arch"
+        }
+        x86 {
+            dimension "arch"
+        }
+        allarchs {
+            dimension "arch"
+        }
+    }
+}
+
+dependencies {
+    implementation project(':wikitude-native-sdk')
+    implementation project(':plugins')
+
+    implementation "com.android.support:appcompat-v7:$commonSupportLibVersion"
+    implementation "com.android.support:design:$commonSupportLibVersion"
+    implementation "com.android.support:support-v4:$commonSupportLibVersion"
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'com.google.android:flexbox:0.2.5'
+    implementation "com.google.ar:core:1.1.0"
+}

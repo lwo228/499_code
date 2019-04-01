@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\samue\\AndroidStudioProjects\\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\\Examples\\NativeSDKExamples\\app\\build\\intermediates\\incremental\\mergeAllarchsDebugResources\\merged.dir\\values-fil\\values-fil.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\samue\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\b23413a5b043c102fc406bcc293da08a\\res\\values-fil\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "191,242,295,414,533",
+                        "endColumns": "50,52,118,118,67",
+                        "endOffsets": "241,294,413,532,600"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,290,413",
+                        "endColumns": "54,56,122,122,71",
+                        "endOffsets": "105,162,285,408,480"
+                    }
+                }
+            ]
+        }
+    ]
+}
