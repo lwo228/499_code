@@ -1,4 +1,0 @@
-#Fri Feb 22 21:25:21 EST 2019
-base.0=C\:\\Users\\samue\\AndroidStudioProjects\\Wikitude2SDK_NativeAPI_Android_8-2-0_2018-11-13_13-25-33\\Examples\\NativeSDKExamples\\app\\build\\intermediates\\transforms\\dexMerger\\allarchs\\debug\\10
-path.0=classes.dex
-renamed.0=classes.dex

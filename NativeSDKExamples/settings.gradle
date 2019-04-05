@@ -1,1 +1,0 @@
-include ':app', ':plugins', ':wikitude-native-sdk'
