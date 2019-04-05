@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37967d43-a5d5-463a-bd86-392f2f99478e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/libs/wikitude-native-sdk.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/austria.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/bike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/brazil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/firetruck.wto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/firetruck_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/france.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/germany.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/iot_tracker.wtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/italy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/magazine.wtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/surfer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/target_iot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/assets/tracker.wtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/camera/CameraSettingsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/main_src/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/main_src/WikitudeSDKConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/CustomSurfaceView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/ExternalRenderingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/FaceTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/GLRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/GLRendererExtendedTracking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/GLRendererFaceDetectionPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/OccluderCube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/PlanePolygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/Renderable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/StrokedCube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/external/StrokedRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/internal/CustomRenderExtension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/rendering/internal/InternalRenderingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/tracking/image/MultipleTargetsImageTrackingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/tracking/image/SimpleImageTrackingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/util/DropDownAlert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/util/Vector3f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-hdpi/baseline_crop_free_white_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-hdpi/ic_folder_open_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-hdpi/ic_save_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-mdpi/baseline_crop_free_white_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-mdpi/ic_folder_open_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-mdpi/ic_save_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xhdpi/baseline_crop_free_white_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xhdpi/ic_folder_open_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xhdpi/ic_save_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xxhdpi/baseline_crop_free_white_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xxhdpi/ic_folder_open_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xxhdpi/ic_save_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xxxhdpi/baseline_crop_free_white_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xxxhdpi/ic_folder_open_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xxxhdpi/ic_save_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/border.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_camera_control.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_continuous_cloud_tracking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_extended_tracking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_instant_load_target.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_instant_save_target.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_instant_tracking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_on_click_cloud_tracking.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/drop_down_alert.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/expand_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/expand_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dat.zip" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/local.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/local.properties" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/local.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="52" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Properties" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37967d43-a5d5-463a-bd86-392f2f99478e" name="Default Changelist" comment="" />
+      <created>1554486670209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554486670209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32977587" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32941177" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Viewer" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android-Gradle</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 28, Q preview Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>app</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
